@@ -1,0 +1,1 @@
+# useEffect fetch call to OMDB - mini movie app! 
